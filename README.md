@@ -11,5 +11,5 @@ should be displayed on that square.
 
 ### By changing the Grid_size and Num_poke and Task One/Two at the end of code, you can set the Degree of difficulty. 
 ```python
-    PokemonGame(root,10,15,TASK_TWO) #10 is Grid_size, 15 is Num_poke.
-                                     #Task_two is the game with the pokemon image, Task_one is the basis idea of this game. 
+PokemonGame(root,10,15,TASK_TWO) #10 is Grid_size, 15 is Num_poke.
+                                 #Task_two is the game with the pokemon image, Task_one is the basis idea of this game. 
