@@ -13,3 +13,5 @@ should be displayed on that square.
 ```python
 PokemonGame(root,10,15,TASK_TWO) #10 is Grid_size, 15 is Num_poke.
                                  #Task_two is the game with the pokemon image, Task_one is the basis idea of this game. 
+
+### Download the image.zip and unzip. Put the image folder and code.py in the same folder. Then you can Run the code and play it! 
